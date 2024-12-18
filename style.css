@@ -1,0 +1,50 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+
+.box{
+    margin: 2rem;
+    height: 200px;
+    width: 200px;
+    border: 0.3rem solid black;
+    border-radius: 1rem;
+
+}
+
+.line1{
+    display: flex;
+    justify-content: center;
+}
+
+.line2{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+
+.purple{
+    background-color: #819ff9;
+}
+
+.flsh{
+    background-color: white;
+}
+
+.score{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10rem;
+}
